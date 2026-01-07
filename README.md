@@ -12,6 +12,6 @@ The analysis examines how different pivoting strategies affect:
 
 * Sensitivity to input characteristics (random, sorted, reverse-sorted, etc.)
 
-Multiple quicksort variants were implemented in C/C++ and tested on large inputs to produce measurable performance differences. Experiments were conducted on x86-64 Linux using standard timing and profiling tools such as high-resolution timers and perf.
+Multiple quicksort variations were implemented in C and tested on large inputs to produce measurable performance differences. Experiments were conducted on x86-64 Linux using standard timing and profiling tools such as high-resolution timers and perf.
 
 The accompanying report details the experimental methodology, results, and insights into how pivot choice interacts with modern CPU architecture and compiler optimizations.
