@@ -1,4 +1,4 @@
-# CMPT295_Mini_Project
+# Quicksort Pivot Analysis
 
 This repository contains my individual mini-project for a systems-level performance analysis course. The project evaluates the performance of quicksort implementations with different pivot selection strategies, focusing on how low-level factors influence runtime beyond simple algorithmic complexity.
 
